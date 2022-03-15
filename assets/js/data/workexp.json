@@ -1,0 +1,116 @@
+[
+    {
+        "company": "Alten Calsoft Pvt. Ltd. <br/>Client: VMware India Pvt. Ltd.",
+        "role": "Lead Engineer",
+        "timeline": "Nov 2019 - Present",
+        "product": [
+            {
+                "title": "",
+                "product": "VMware Compatibility Guide Web Application",
+                "tech": "Core PHP, MySQL, jQuery",
+                "link": "https://www.vmware.com/resources/compatibility/search.php",
+                "description": [
+                    "Responsible for continued maintenance and development of bug fixes and patch sets.",
+                    "Implementing new features in the application as required."
+                ]
+            },
+            {
+                "title": "",
+                "product": "vSAN VCG Notification Service",
+                "tech": "Angular 8, Clarity, Typescript, NgRx",
+                "link": "https://vsansizer.vmware.com/revisioncontrol/audit-detail",
+                "description": [
+                    "Created the application from the scratch coordinating between Backend Developers and PM team's requirements.",
+                    "Made continous development and lent support to the project."
+                ]
+            },
+            {
+                "title": "Miscellaneous",
+                "product": "",
+                "tech": "",
+                "link": "",
+                "description": [
+                    "Helped in upgrading code of older version of PHP to latest version in a project.",
+                    "Leveraged logstash and elastic search in GO script for a project.",
+                    "Developed a dashboard for keeping track of a sync process.",
+                    "Worked in other front-end Angular 8+ projects in implementing new features and modifying existing code."
+                ]
+            }
+        ]
+    },
+    {
+        "company": "Gympik Health Solutions Pvt. Ltd.",
+        "role": "Software Engineer - Technology",
+        "timeline": "May 2017 - Nov 2019",
+        "product": [
+            {
+                "title": "",
+                "product": "Gympik Website",
+                "tech": "Laravel, MySQL, Vue JS, Webpack, Wordpress",
+                "link": "https://www.gympik.com",
+                "description": [
+                    "Responsible for setting up and maintaining websites blog section using wordpress.",
+                    "Optimized blog to get higher page speed and reduced bounce rate of the blog.",
+                    "Provided continued maintenance and development."
+                ]
+            },
+            {
+                "title": "",
+                "product": "Traqade",
+                "tech": "Laravel, MySQL, Vue JS, Webpack",
+                "link": "https://www.traqade.com",
+                "description": [
+                    "Worked from scratch and built guidelines for front end setup for the application",
+                    "Developed RESTful APIs using laravel for modules such as Lead, Member, Package, Coupon, Expense management",
+                    "Worked with Elastic Search to sync data.",
+                    "Implemented Dashboard using VueJS for easy visualization of data.",
+                    "Recommended architectural improvements, design solutions and integration solutions"
+                ]
+            }
+        ]
+    },
+    {
+        "company": "Edunet Foundation",
+        "role": "Senior Software Engineer (Part-Time Consultant)",
+        "timeline": "Aug 2019 - Nov 2019",
+        "product": [
+            {
+                "title": "",
+                "product": "Dashboards to record and track training programs.",
+                "tech": "Laravel, MySQL, Vue JS, ChartJS, Webpack",
+                "link": "",
+                "description": [
+                    "Responsible for developing and deploying website from the scratch",
+                    "Record training data in the backend using laravel APIs.",
+                    "Display the data and analysis in the font-end using laravel blade and VueJS 2.",
+                    "Designed, implemented and monitored web pages and sites for continuous improvement in a fastpaced environment",
+                    "Established web hosting for the site and uploaded the site to the hosting account"
+                ]
+            }
+        ]
+    },
+    {
+        "company": "Amigobulls Inc",
+        "role": "Software Engineer",
+        "timeline": "May 2013 - May 2017",
+        "product": [
+            {
+                "title": "",
+                "product": "Amigobulls Website (formarlly https://amigobulls.com/)",
+                "tech": "Core PHP, jQuery, HTML, CSS",
+                "link": "https://enrichvideo.com/",
+                "description": [
+                    "Accountable for developing PHP website (amigobulls.com) from scratch",
+                    "Created personalized automated email campaign based on user preference",
+                    "Have worked on Amazon Web Services ( EC2, S3, CloudFront, Route 53, CloudWatch, SES)",
+                    "Formulated procedures for implementation of SEO",
+                    "Worked with wordpress and tweaked wordpress code as per application needs",
+                    "Worked with designing and development of relational databases",
+                    "Worked with third party APIs such as Twitter, Facebook, Stocktwits",
+                    "Worked on improving the website performance and created tools for server monitoring",
+                    "Had an independent work culture in a fast paced start up environment"
+                ]
+            }
+        ]
+    }
+]
